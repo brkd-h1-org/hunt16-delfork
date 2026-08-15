@@ -1,2 +1,2 @@
-# hunt16-delfork
-L-16-fromfork deleted-head lab
+# brkd-h1-org/hunt16-delfork
+from-fork lab. Safe to break.
